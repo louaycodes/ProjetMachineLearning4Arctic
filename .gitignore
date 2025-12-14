@@ -3,3 +3,7 @@ recipes.csv
 reviews.csv
 recipe_column_statistics.json
 rotation.gif
+models/BO3/feature_names.json
+models/BO3/model_metadata.json
+.gitignore
+models/BO3/random_forest_rating_model.pkl
